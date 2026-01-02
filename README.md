@@ -8,7 +8,7 @@ https://duduttzz.github.io/projeto-android/
 
 ---
 
-=Objetivo do Projeto
+Objetivo do Projeto
 
 O objetivo deste projeto foi:
 
